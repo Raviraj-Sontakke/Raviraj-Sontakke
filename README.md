@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Raviraj Sontakke</h1>
 <h3 align="center">A passionate Devops Engineer from India</h3>
 
-- 🌱 I’m currently learning **Ansible**
+- 🌱 I’m currently learning **TERRAFORM**
 
 - 💬 Ask me about **Aws**
 
